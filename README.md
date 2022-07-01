@@ -1,7 +1,5 @@
 # *BTUI'22 - Beyond the User Interface*
 
->Just beyond the horizon of the so-called impossible, is infinite possibility.
-
 
 BTUI'22 is a series of virtual sessions organized free of charge by the Royal College Computer Society on the following topics.
 
