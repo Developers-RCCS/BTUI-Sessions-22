@@ -13,6 +13,9 @@ BTUI'22 is a series of virtual sessions organized free of charge by the Royal Co
 
 The sessions will be held on the 2nd ,3rd ,9th and 10th of July 2022. 
 
+![image](https://user-images.githubusercontent.com/81571678/176944042-22a896f2-d7c3-4a5f-ab98-d183d8ec88e3.png)
+
+
 * Please visit our website for more info.
 > https://btui.rccsonline.com/
 
