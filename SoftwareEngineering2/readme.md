@@ -7,8 +7,11 @@ every day.
 
 ### Lecturer
 ![image](/Images/lecture1.jpg)
-Shayen Yatagama
-BSc Applied Statistics, University of Colombo
-Co-Founder, Kainovation Technologies
 
-https://www.linkedin.com/in/shayen-yatagama/
+<p align="center">
+    <b> Shayen Yatagama </b> <br> 
+    BSc Applied Statistics, University of Colombo <br>
+    Co-Founder, Kainovation Technologies
+</p>
+
+![Image](/Images/LI-Logo.png)(https://www.linkedin.com/in/shayen-yatagama/)
