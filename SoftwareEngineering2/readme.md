@@ -6,4 +6,9 @@ absolute beginners, using tools such as MySQL and Python. Finally, we will take 
 every day.
 
 ### Lecturer
-![image](https://user-images.githubusercontent.com/81571678/176940222-e8027cb3-11fd-431a-b5ae-7f57c8aefd4c.png)
+![image](/Images/lecture1.jpg)
+Shayen Yatagama
+BSc Applied Statistics, University of Colombo
+Co-Founder, Kainovation Technologies
+
+https://www.linkedin.com/in/shayen-yatagama/
