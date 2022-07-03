@@ -1,4 +1,4 @@
-# *BTUI'22 - Beyond the User Interface*
+# BTUI'22 - Beyond the User Interface
 
 
 BTUI'22 is a series of virtual sessions organized free of charge by the Royal College Computer Society on the following topics.
@@ -9,9 +9,7 @@ BTUI'22 is a series of virtual sessions organized free of charge by the Royal Co
 * Game Development
 * Business Intelliegence
 * IT Job Industry
-* And Many more...
 
-The sessions will be held on the 2nd ,3rd ,9th and 10th of July 2022. 
 
 ![image](/Images/BTUI_Register.png)
 
